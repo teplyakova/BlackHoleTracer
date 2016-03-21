@@ -1,2 +1,2 @@
 # BlackHoleTracer
-![blackhole](output.png?raw=true "BlackHole")
+![blackhole](output.png "BlackHole")
